@@ -1,0 +1,11 @@
+
+Task: Solve the N Queens Problem
+
+Desc: For an N x N board, a queen can be placed down. 
+For boards of size 4 and larger, we need to set the array.
+
+Example of a solution
+x q x x
+x x x q
+q x x x
+x x q x
